@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import NewExpense from "./components/NewExpense/NewExpense";
 import Expenses from "./components/Expenses/Expenses";
 
-
 const DUMMY_EXPENSES = [
   { id: 'e1', title: 'Rent', amount: 194.12, date: new Date(2021, 0, 14) },
   { id: 'e2', title: 'car insurance', amount: 799.49, date: new Date(2021, 1, 12) },
