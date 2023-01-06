@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Khata/static/css/main.e81102f8.css",
+    "main.js": "/Khata/static/js/main.bad0f809.js",
+    "index.html": "/Khata/index.html",
+    "main.e81102f8.css.map": "/Khata/static/css/main.e81102f8.css.map",
+    "main.bad0f809.js.map": "/Khata/static/js/main.bad0f809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e81102f8.css",
+    "static/js/main.bad0f809.js"
+  ]
+}
