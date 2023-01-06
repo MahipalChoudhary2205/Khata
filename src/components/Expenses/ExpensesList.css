@@ -1,0 +1,9 @@
+.expeses-list{
+    list-style: none;
+    padding: 0;
+}
+
+.expeses-list__fallback{
+    color: white;
+    text-align: center;
+}
